@@ -1,1 +1,16 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+
+/* Default styling */
+body {
+    font-family: var(--base-font-family);
+}
+
+/* Simplified Chinese content */
+body[lang="zh-cn"] {
+    font-family: var(--zh-base-font-family);
+}
+
+/* Japanese content */
+body[lang="ja"] {
+    font-family: var(--jp-base-font-family);
+}

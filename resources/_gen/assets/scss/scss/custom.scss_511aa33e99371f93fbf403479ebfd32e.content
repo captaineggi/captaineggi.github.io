@@ -1,0 +1,1 @@
+body{font-family:var(--base-font-family)}body[lang=zh-cn]{font-family:var(--zh-base-font-family)}body[lang=ja]{font-family:var(--jp-base-font-family)}
