@@ -1,1 +1,9 @@
-**/.DS_Store
+# macOS General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# hugo
+.hugo_build.lock
+_gen/
+exampleSite/

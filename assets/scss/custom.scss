@@ -6,11 +6,11 @@ body {
 }
 
 /* Simplified Chinese content */
-body[lang="zh-cn"] {
-    font-family: var(--zh-base-font-family);
+body:lang(zh) {
+    --base-font-family: var(--zh-base-font-family);
 }
 
 /* Japanese content */
-body[lang="ja"] {
-    font-family: var(--jp-base-font-family);
+body:lang(ja) {
+    --base-font-family: var(--jp-base-font-family);
 }
