@@ -186,6 +186,10 @@ params:
             enabled: true
         content:
             enabled: true
+    
+# Emoji setting
+enableEmoji: true
+
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html

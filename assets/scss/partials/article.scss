@@ -134,7 +134,7 @@
 
     a {
         color: var(--accent-color-text);
-        background-color: var(--accent-color);
+
         padding: 8px 16px;
         border-radius: var(--tag-border-radius);
         display: inline-block;
@@ -145,6 +145,18 @@
             color: var(--accent-color-text);
             background-color: var(--accent-color-darker);
         }
+    }
+}
+
+.article-category {
+    a {
+        background-color: var(--category-color);
+    }
+}
+
+.article-tags {
+    a {
+        background-color: var(--tag-color);
     }
 }
 
