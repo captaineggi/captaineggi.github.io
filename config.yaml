@@ -210,7 +210,7 @@ menu:
 
         - identifier: rss
           name: RSS
-          url: captaineggi.github.io/index.xml
+          url: https://captaineggi.github.io/index.xml
           params:
               icon: rss
 
