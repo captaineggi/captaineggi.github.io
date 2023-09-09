@@ -14,3 +14,116 @@ body:lang(zh) {
 body:lang(ja) {
     --base-font-family: var(--jp-base-font-family);
 }
+
+/* Blog card */
+.blog-card {
+    display: flex;
+    border: 1px solid #e0e0e0;
+    padding: 12px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: opacity 0.3s, transform 0.3s, box-shadow 0.3s; /* Added transform to the transition */
+}
+
+.blog-card:hover {
+    opacity: 0.9;
+    transform: translateY(-3px); /* Lifts the card slightly on hover */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15); /* Increased shadow depth on hover */
+}
+
+.blog-card .thumbnail-container {
+    flex-shrink: 0;
+    margin-right: 12px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 8px;
+    display: flex;
+    align-items: center; /* center the image vertically */
+    justify-content: center; /* center the image horizontally */
+}
+
+.blog-card .thumbnail-container img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.blog-card .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.blog-card .content h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.blog-card .content p {
+    margin-top: 8px;
+    font-size: 13px;
+    word-break: break-word;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
+
+
+/* rating-card card */
+.rating-card {
+    border: 1px solid #e0e0e0;
+    padding: 20px;
+    border-radius: 10px;
+    width: 170px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.rating-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.rating-card .score {
+    font-size: 28px; /* Increased font size for emphasis */
+    margin-bottom: 10px; /* Space below the score */
+}
+
+.rating-card .stars {
+    display: flex;
+    justify-content: center; /* Center the stars */
+    margin-bottom: 10px; /* Space below the stars */
+}
+
+.star {
+    font-size: 18px; /* Adjusted star size */
+    margin: 0 2px;   /* Adjusted space between stars */
+    color: gold;
+}
+
+.star:hover, .star:focus {
+    text-shadow: 0 0 5px rgba(255, 223, 0, 0.7);
+}
+
+.rating-card .label {
+    font-size: 12px; /* Adjusted label font size */
+    color: #888888;
+    text-transform: uppercase; /* Made the label uppercase */
+    letter-spacing: 1px; /* Increased spacing between letters */
+    margin-top: 10px; /* Space above the label */
+}
+
+.half-star::before {
+    content: '\2605';
+    position: absolute;
+    overflow: hidden;
+    width: 50%;
+}

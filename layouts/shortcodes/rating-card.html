@@ -1,0 +1,21 @@
+{{ $copyright := .Site.Copyright }}
+{{ $score := .Get 0 | default 0 }}
+{{ $rating := div $score 2 }}
+{{ $flooredRating := math.Floor $rating }}
+{{ $roundedRating := add $flooredRating (cond (ge (sub $rating $flooredRating) 0.5) 1 0) }}
+
+<div class="rating-card">
+    <span class="score">{{ $score }}/10</span>
+    <div class="stars">
+        {{ range seq 1 5 }}
+            {{ if le . $roundedRating }}
+                <span class="star">&#9733;</span> <!-- Full star -->
+            {{ else if and (eq . (add $roundedRating 1)) (mod $score 2) }}
+                <span class="star half-star">&#9733;</span> <!-- Half star (if needed) -->
+            {{ else }}
+                <span class="star">&#9734;</span> <!-- Empty star -->
+            {{ end }}
+        {{ end }}
+    </div>
+    <div class="label">{{ $copyright }}'s rating</div>
+</div>

@@ -190,6 +190,11 @@ params:
 # Emoji setting
 enableEmoji: true
 
+### Blog card
+# Image Quality
+params:
+    imageQuality: 100
+    emptyThumbnail : "img/empty-thumbnail.png"
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
