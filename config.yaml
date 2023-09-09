@@ -34,7 +34,7 @@ DefaultContentLanguage: ja
 hasCJKLanguage: true
 
 permalinks:
-    post: /p/:slug/
+    post: /p/:year/:month/:day/:slug/
     page: /:slug/
 
 params:
