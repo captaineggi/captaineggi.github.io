@@ -5,7 +5,7 @@ slug: pathaan-review
 date: 2023-09-09
 description: 
 categories:
-    - 
+    - Movie
 tags:
     - review
 image: indian-people-dancing.jpg
