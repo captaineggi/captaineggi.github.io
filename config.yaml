@@ -1,7 +1,7 @@
 baseurl: https://captaineggi.github.io/
 languageCode: ja
 theme: hugo-theme-stack
-paginate: 5
+pagerSize: 5
 title: Example Site
 copyright: eggi
 
@@ -11,13 +11,13 @@ languages:
         title: eggi's blog
         weight: 1
         params:
-            description: ITエンジニアの日常
+            description: 好きなことをやれ
     zh-cn:
         languageName: 中文
         title: eggi的小站
         weight: 2
         params:
-            description: 在日IT人的日常
+            description: 随性而行，心之所向
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-nkaabt0byn
@@ -45,7 +45,7 @@ params:
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2023
         customText:
 
     dateFormat:
@@ -213,6 +213,11 @@ menu:
           url: https://captaineggi.github.io/index.xml
           params:
               icon: rss
+        - identifier: book-meter
+          name: Book Meter
+          url: https://bookmeter.com/users/1542368
+          params:
+            icon: book
 
 related:
     includeNewer: true

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on eggi&#39;s blog</title>
+        <link>https://captaineggi.github.io/categories/</link>
+        <description>Recent content in Categories on eggi&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <copyright>eggi</copyright>
+        <lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://captaineggi.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Thoughts</title>
+        <link>https://captaineggi.github.io/categories/thoughts/</link>
+        <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://captaineggi.github.io/categories/thoughts/</guid>
+        <description>&lt;img src="https://captaineggi.github.io/categories/thoughts/soft-cloud-with-hearts.png" alt="Featured image of post Thoughts" /&gt;</description>
+        </item>
+        <item>
+        <title>Movie</title>
+        <link>https://captaineggi.github.io/categories/movie/</link>
+        <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://captaineggi.github.io/categories/movie/</guid>
+        <description>&lt;img src="https://captaineggi.github.io/categories/movie/movie-projector-in-the-room.jpg" alt="Featured image of post Movie" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
