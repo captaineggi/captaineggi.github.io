@@ -2,104 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/zh-cn/</loc>
+    <loc>https://captaineggi.github.io/zh-cn/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/"
+                href="https://captaineggi.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/"
+                href="https://captaineggi.github.io/zh-cn/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/page/</loc>
+    <loc>https://captaineggi.github.io/zh-cn/page/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/page/"
+                href="https://captaineggi.github.io/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/page/"
+                href="https://captaineggi.github.io/zh-cn/page/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://captaineggi.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/about/"
+                href="https://captaineggi.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://captaineggi.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/archives/</loc>
+    <loc>https://captaineggi.github.io/zh-cn/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/archives/"
+                href="https://captaineggi.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/archives/"
+                href="https://captaineggi.github.io/zh-cn/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/categories/</loc>
+    <loc>https://captaineggi.github.io/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/categories/"
+                href="https://captaineggi.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/categories/"
+                href="https://captaineggi.github.io/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/tags/</loc>
+    <loc>https://captaineggi.github.io/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/tags/"
+                href="https://captaineggi.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/tags/"
+                href="https://captaineggi.github.io/zh-cn/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/search/</loc>
+    <loc>https://captaineggi.github.io/zh-cn/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/search/"
+                href="https://captaineggi.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/search/"
+                href="https://captaineggi.github.io/zh-cn/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://captaineggi.github.io/zh-cn/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/links/"
+                href="https://captaineggi.github.io/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/%E9%93%BE%E6%8E%A5/"
+                href="https://captaineggi.github.io/zh-cn/%E9%93%BE%E6%8E%A5/"
                 />
   </url>
 </urlset>
