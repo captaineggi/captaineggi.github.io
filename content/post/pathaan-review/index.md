@@ -8,7 +8,7 @@ categories:
     - Movie
 tags:
     - review
-image: indian-people-dancing.jpg
+image:
 ---
 
 {{< rating-card 8 >}}
