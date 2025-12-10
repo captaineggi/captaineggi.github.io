@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Movie on eggi&#39;s blog</title>
-        <link>https://captaineggi.github.io/categories/movie/</link>
+        <link>http://localhost:1313/categories/movie/</link>
         <description>Recent content in Movie on eggi&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
         <copyright>eggi</copyright>
-        <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://captaineggi.github.io/categories/movie/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/movie/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>「パターン」：映画からわかるインドの実力</title>
-        <link>https://captaineggi.github.io/p/2023/09/10/pathaan-review/</link>
+        <link>http://localhost:1313/p/2023/09/10/pathaan-review/</link>
         <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://captaineggi.github.io/p/2023/09/10/pathaan-review/</guid>
-        <description>&lt;img src="https://captaineggi.github.io/p/2023/09/10/pathaan-review/indian-people-dancing.jpg" alt="Featured image of post 「パターン」：映画からわかるインドの実力" /&gt;
+        <guid>http://localhost:1313/p/2023/09/10/pathaan-review/</guid>
+        <description>
 
 
 
@@ -54,7 +54,7 @@
     
     
     &lt;div class=&#34;thumbnail-container&#34;&gt;
-        &lt;img src=&#34;https://captaineggi.github.io/ogp_14907426561573653176_hu_65b202b5e081334c.webp&#34; alt=&#34;【公式】映画『PATHAAN／パターン』オフィシャルサイト&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/ogp_14907426561573653176_hu_65b202b5e081334c.webp&#34; alt=&#34;【公式】映画『PATHAAN／パターン』オフィシャルサイト&#34;&gt;
     &lt;/div&gt;
     
     
